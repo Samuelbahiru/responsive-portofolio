@@ -1,0 +1,65 @@
+.logo{
+
+    height:120px;
+	padding:4px 4px 4px 4px;
+	width: 160px;
+	
+
+}
+
+
+.super{
+    
+    background: #eff4fd;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+   
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: #000;
+    font-weight: bold;
+    font-size: 12px;
+}
+
+ nav ul li a:hover{
+    color: red;
+}
+
+.image{
+
+height: 300px;
+width:320px;
+
+}
+.image:hover{
+    transition: 0.2;
+}
+
+  span{
+    color: orange;
+
+    
+}
+
+
+.social a{
+    font-size: 50px;
+    color: #22100b;
+    margin-right: 15px;
+	background: none;
+	display:inline;
+}
+
+.social a:hover{
+    color: rgb(218, 67, 56);
+}
+
+h1:hover{
+color:rgb(218, 67, 56);
+
+}
+h4:hover{
+    color:rgb(218, 67, 56);
+    
+    }
